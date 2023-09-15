@@ -1,0 +1,5 @@
+/Users/zeynepkayhan/InterProbeTask/JsonIndexing/obj/Debug/net5.0/JsonIndexing.csproj.AssemblyReference.cache
+/Users/zeynepkayhan/InterProbeTask/JsonIndexing/obj/Debug/net5.0/JsonIndexing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeynepkayhan/InterProbeTask/JsonIndexing/obj/Debug/net5.0/JsonIndexing.AssemblyInfoInputs.cache
+/Users/zeynepkayhan/InterProbeTask/JsonIndexing/obj/Debug/net5.0/JsonIndexing.AssemblyInfo.cs
+/Users/zeynepkayhan/InterProbeTask/JsonIndexing/obj/Debug/net5.0/JsonIndexing.csproj.CoreCompileInputs.cache
